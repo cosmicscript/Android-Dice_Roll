@@ -2,4 +2,6 @@
     <string name="app_name">Dice Roll</string>
     <string name="roll">Roll</string>
     <string name="button_roll">Roll</string>
+    <string name="luckyText">you have got your lucky number. Got \ </string>
+    <string name="notlucky">You are not lucky. Got\ \ \ </string>
 </resources>
